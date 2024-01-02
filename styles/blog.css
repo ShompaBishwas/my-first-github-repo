@@ -3,5 +3,9 @@ div{
     padding: 10px;
     text-align: center;
     margin-bottom: 15px;
+}
 
+h2{
+    background-color: #bea17b;
+    border: #883c3c;
 }
